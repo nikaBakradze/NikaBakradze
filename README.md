@@ -13,12 +13,30 @@
 <h1 align="center">Hi, I'm Nika Bakradze ! 👋</h1>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in//nika-bakradze-aba496387/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com//nikaBakradze) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@NikaBakradzee) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com//_nbakradzeee/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikabakradze10@gmail.com)
+  <a href="https://linkedin.com/in/nika-bakradze-aba496387/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/nikaBakradze" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://youtube.com/@NikaBakradzee" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/_nbakradzeee/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:nikabakradze10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css&perline=10&theme=dark" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/stats?username=NikaBakradze&theme=custom%3A1a1b27_478EFF_c9d1d9_bf91f3_30363d&layout=standard&show_icons=false&hide_border=false&hide_title=false&hide_rank=true&border_radius=10" alt="GitHub Stats" />
