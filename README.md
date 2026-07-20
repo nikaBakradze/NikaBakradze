@@ -41,13 +41,10 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=NikaBakradze&theme=custom%3A1a1b27_478EFF_c9d1d9_bf91f3_30363d&layout=standard&show_icons=false&hide_border=false&hide_title=false&hide_rank=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=NikaBakradze&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/stats?username=NikaBakradze&theme=tokyonight&layout=standard&show_icons=true&hide_border=false&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=NikaBakradze&theme=tokyonight&layout=compact&hide_border=false&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
-</div>
+<br />
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=EEFF00&colorEnd=A82DAA&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
