@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://hgkqlx7urg.ufs.sh/f/fSxuE381F0MKfvrb1Z781F0MK6shSAaoyU5EnPv9d8tDjmZB" alt="Image description" style="border-radius: 8px;" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-maker.vercel.app/api/divider?bgType=solid&thickness=2&alignment=center&bgSolidColor=CCCCCC&bgStartColor=CCCCCC&bgEndColor=999999&bgGradientDirection=horizontal" alt="Divider" />
 </div>
 
@@ -39,7 +35,7 @@
 <br />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,html,css&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,tailwind,html,css&perline=10&theme=dark" />
 </div>
 
 <br />
