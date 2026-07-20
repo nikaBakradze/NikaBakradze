@@ -13,6 +13,12 @@
 <h1 align="center">Hi, I'm Nika Bakradze ! 👋</h1>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&height=30&lines=Follow%20me%20on%20social%20media%20!" alt="Typing SVG" />
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://linkedin.com/in/nika-bakradze-aba496387/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -49,4 +55,8 @@
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=EEFF00&colorEnd=A82DAA&height=120&section=footer&text=Thanks+for+visiting%21&fontSize=24&fontColor=ffffff&animation=none&gradientDirection=horizontal&parallax=true&wavePosition=70&waveAmplitude=20&waveSpeed=20&flipWave=false&textAlignX=50&textAlignY=50" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/github.png" width="150" height="150" style="border-radius: 50%;" />
 </div>
